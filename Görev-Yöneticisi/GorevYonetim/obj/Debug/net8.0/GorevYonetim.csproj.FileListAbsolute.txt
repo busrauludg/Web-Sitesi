@@ -125,3 +125,4 @@ C:\Users\Büşra\Documents\GitHub\Web-Sitesi\Görev-Yöneticisi\GorevYonetim\obj
 C:\Users\Büşra\Documents\GitHub\Web-Sitesi\Görev-Yöneticisi\GorevYonetim\obj\Debug\net8.0\GorevYonetim.pdb
 C:\Users\Büşra\Documents\GitHub\Web-Sitesi\Görev-Yöneticisi\GorevYonetim\obj\Debug\net8.0\GorevYonetim.genruntimeconfig.cache
 C:\Users\Büşra\Documents\GitHub\Web-Sitesi\Görev-Yöneticisi\GorevYonetim\obj\Debug\net8.0\ref\GorevYonetim.dll
+C:\Users\Büşra\Documents\GitHub\Web-Sitesi\Görev-Yöneticisi\GorevYonetim\obj\Debug\net8.0\GorevYonetim.sourcelink.json
