@@ -59,3 +59,4 @@ C:\Users\Büşra\Documents\GitHub\Web-Sitesi\Kullanıcı Giriş\obj\Debug\net8.0
 C:\Users\Büşra\Documents\GitHub\Web-Sitesi\Kullanıcı Giriş\obj\Debug\net8.0\WebSitesi.pdb
 C:\Users\Büşra\Documents\GitHub\Web-Sitesi\Kullanıcı Giriş\obj\Debug\net8.0\WebSitesi.genruntimeconfig.cache
 C:\Users\Büşra\Documents\GitHub\Web-Sitesi\Kullanıcı Giriş\obj\Debug\net8.0\ref\WebSitesi.dll
+C:\Users\Büşra\Documents\GitHub\Web-Sitesi\Kullanıcı Giriş\obj\Debug\net8.0\WebSitesi.sourcelink.json
